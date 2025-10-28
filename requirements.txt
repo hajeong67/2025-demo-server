@@ -1,0 +1,7 @@
+Django>=5.0
+djangorestframework>=3.15
+heartpy
+scipy
+joblib
+numpy
+pandas
